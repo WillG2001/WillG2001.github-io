@@ -27,6 +27,7 @@ Data involving biology, chemistry, technology, and nutrition.
 `2019-Present`
 __Brigham Young University-Idaho__
 
+
 <!-- ### Footer
 
 Last updated: December 2024 -->
